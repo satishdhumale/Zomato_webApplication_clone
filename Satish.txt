@@ -1,2 +1,6 @@
 Hello Everyone
-This is zomato cloning page COding
+This is zomato cloning page
+for original website please head to 
+please do let me know your feedbacks ! Thanks
+
+I also host this website homepage on Netlify Please checkout @https://zomatoclonebysatish.netlify.app/
